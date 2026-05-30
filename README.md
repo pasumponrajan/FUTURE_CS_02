@@ -9,7 +9,7 @@ This repository contains a professional Security Advisory and Phishing Awareness
 *   **Awareness Drafting:** Translated technical findings into actionable, business-friendly guidelines (Do's and Don'ts) for general staff.
 
 ## Deliverables
-*   **[Phishing_Awareness_Report.pdf](./Email-Analysis-report)** - The final security advisory document detailing the anatomy of the attack, technical evidence, and employee prevention guidelines.
+*   **[Phishing_Awareness_Report.pdf](./Email-analysis-report.pdf)** - The final security advisory document detailing the anatomy of the attack, technical evidence, and employee prevention guidelines.
 
 ---
 **Created by PASUMPONRAJAN M**
